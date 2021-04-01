@@ -1,0 +1,25 @@
+.User {
+  height: 24px;
+}
+table {
+    color: #333;
+    font-family: Helvetica, Arial, sans-serif;
+    border-collapse:
+    collapse; border-spacing: 0;
+    align-self: center;
+}
+
+td, th {
+  border: 1px solid rgb(116, 113, 113);
+  height: 36px; }
+
+th {
+    background: #948f8f;
+    font-weight: bold;
+}
+
+td {
+    background: #b3afaf;
+    padding: 10px;
+    text-align: center;
+}
